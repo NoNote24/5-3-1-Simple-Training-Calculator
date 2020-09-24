@@ -1,0 +1,54 @@
+*** One Rep Maxes ***
+Deadlift: 73.0
+Squat: 62.0
+MilitaryPress: 28.0
+BenchPress: 40.0
+
+*** Week 1 ***
+Deadlift - Week 1:	5 x 47.45kg	5 x 54.75kg	5+ x 62.05kg
+Squat - Week 1:	5 x 40.300000000000004kg	5 x 46.5kg	5+ x 52.699999999999996kg
+Hip Thrust: 
+Adductors: 
+
+MilitaryPress - Week 1:	5 x 18.2kg	5 x 21.0kg	5+ x 23.8kg
+BenchPress - Week 1:	5 x 26.0kg	5 x 30.0kg	5+ x 34.0kg
+Rows: 
+Lat Pulls: 
+
+
+*** Week 2 ***
+Deadlift - Week 2:	3 x 51.099999999999994kg	3 x 58.400000000000006kg	3+ x 65.7kg
+Squat - Week 2:	3 x 43.4kg	3 x 49.6kg	3+ x 55.800000000000004kg
+Hip Thrust: 
+Adductors: 
+
+MilitaryPress - Week 2:	3 x 19.599999999999998kg	3 x 22.400000000000002kg	3+ x 25.2kg
+BenchPress - Week 2:	3 x 28.0kg	3 x 32.0kg	3+ x 36.0kg
+Rows: 
+Lat Pulls: 
+
+
+*** Week 3 ***
+Deadlift - Week 3:	5 x 54.75kg	3 x 62.05kg	1+ x 69.35kg
+Squat - Week 3:	5 x 46.5kg	3 x 52.699999999999996kg	1+ x 58.9kg
+Hip Thrust: 
+Adductors: 
+
+MilitaryPress - Week 3:	5 x 21.0kg	3 x 23.8kg	1+ x 26.599999999999998kg
+BenchPress - Week 3:	5 x 30.0kg	3 x 34.0kg	1+ x 38.0kg
+Rows: 
+Lat Pulls: 
+
+
+*** Week 4 ***
+Deadlift - Week 4:	5 x 29.200000000000003kg	5 x 36.5kg	5 x 43.8kg
+Squat - Week 4:	5 x 24.8kg	5 x 31.0kg	5 x 37.199999999999996kg
+Hip Thrust: 
+Adductors: 
+
+MilitaryPress - Week 4:	5 x 11.200000000000001kg	5 x 14.0kg	5 x 16.8kg
+BenchPress - Week 4:	5 x 16.0kg	5 x 20.0kg	5 x 24.0kg
+Rows: 
+Lat Pulls: 
+
+
